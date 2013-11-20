@@ -47,6 +47,32 @@ class EquiMobi {
      */
     private $adresse;
 
+    /**
+     * Latitude de l'équipement
+     */
+    private $latitude;
+
+    /**
+     * Longitude de l'équipement
+     */
+    private $longitude;
+
+    public function setLongitude($longitude) {
+        $this->longitude = $longitude;
+    }
+
+    public function getLongitude() {
+        return $this->longitude;
+    }
+
+    public function setLatitude($latitude) {
+        $this->latitude = $latitude;
+    }
+
+    public function getLatitude() {
+        return $this->latitude;
+    }
+
     public function setNom($nom) {
         $this->nom = $nom;
     }
@@ -111,58 +137,58 @@ class EquiSport {
     function __construct() {}
     function __destruct(){}
 
-    function EquiSport($nom, $prenom, $distanceMax) {
+    public function EquiSport($nom, $prenom, $distanceMax) {
         $this->nom = $nom;
         $this->adresse = $adresse;
         $this->distanceMax = $distanceMax;
         $this->$equipements = array();
     }
 
-    function setLongitude($longitude) {
+    public function setLongitude($longitude) {
         $this->longitude = $longitude;
     }
 
-    function getLongitude() {
+    public function getLongitude() {
         return $this->longitude;
     }
 
-    function setLatitude($latitude) {
+    public function setLatitude($latitude) {
         $this->latitude = $latitude;
     }
 
-    function getLatitude() {
+    public function getLatitude() {
         return $this->latitude;
     }
 
-    function setNom($nom) {
+    public function setNom($nom) {
         $this->nom = $nom;
     }
 
-    function getNom() {
+    public function getNom() {
         return $this->nom;
     }
 
-    function setAdresse($adresse) {
+    public function setAdresse($adresse) {
         $this->adresse = $adresse;
     }
 
-    function getAdresse() {
+    public function getAdresse() {
         return $this->adresse;
     }
 
-    function addEquipement($equipement) {
+    public function addEquipement($equipement) {
         array_push($this->equipements, $equipement);
     }
 
-    function setDistanceMax($distance) {
+    public function setDistanceMax($distance) {
         $this->distanceMax = $distance;
     }
 
-    function getDistanceMax() {
+    public function getDistanceMax() {
         return $this->distanceMax;
     }
 
-    function getEquipements() {
+    public function getEquipements() {
         return $this->equipements;
     }
 }
@@ -206,6 +232,7 @@ class SportHandler extends DefaultHandler {
 
         switch(utf8_decode($name)) {
             case 'element' :
+
                 // Cette instruction doit être la dernière effectuée dans le cas où on quitte le noeud représentant un équipement
                 $this->equiSportCourant = null;
                 break;
@@ -255,6 +282,17 @@ class SportHandler extends DefaultHandler {
         $txt_reduit = trim($txt);
         if (!(empty($txt_reduit))) $this->texte .= $txt;
     }
+
+    /**
+     * Fonction permettant de récupérer la liste des équipements de mobilité dans un rayon de 500 mètres.
+     */
+    function setListeEquipementsMobilite() {
+        $xmlMobilite = file_get_contents('../LOC_EQUIPUB_MOBILITE_NM_STBL.xml');
+
+        $this->equiSportCourant->setDistanceMax(500);
+
+        $saxMobilite = new SaxParser(new MobiliteHandler($equiSportCourant));
+    }
 }
 
 /**
@@ -262,12 +300,70 @@ class SportHandler extends DefaultHandler {
  */
 class MobiliteHandler extends DefaultHandler {
     
+    /**
+     * Equipement de sport qui est en cours de traitement par le SportHandler,
+     * reçu par référence pour pouvoir modifier la liste des équipements
+     */
+    private $equipementSport;
+
+    /**
+     * Equipement de mobilité courant
+     */
+    private $equiMobiCourant;
+
+    /**
+     * Variable de stockage du contenu texte du noeud courant
+     */
+    private $texte;
+
+    function MobiliteHandler(&$equipementSport) {
+        $this->equipementSport = $equipementSport;
+        parent::__construct();
+    }
+
     function startElement($name, $att) {
-        $rien;
+
+        // Reset du texte pour récupérer l'élément courant
+        $this->texte = '';
+
+        switch ($name) {
+            case 'element':
+                $this->$equiMobiCourant = new EquiMobi();
+                break;
+            default:
+                # code...
+                break;
+        }
     }
     
     function endElement($name) {
-        $rien;
+        switch ($name) {
+            case 'element':
+                $distance = getDistance($this->equiMobiCourant->getLatitude(), $this->equiMobiCourant->getLongitude(), $this->equipementSport->getLatitude(), $this->equipementSport->getLongitude());
+                if($distance < 500) {
+                    $this->equipementSport->addEquipement($this->equiMobiCourant);
+                }
+                $this->equiMobiCourant = null;
+                break;
+            case 'name' :
+                $this->equiMobiCourant->setNom(utf8_decode($this->texte));
+                break;
+            case '_l' :
+                $caracteres = array("[", "]", " ");
+                $latlon = str_replace($caracteres, "", utf8_decode($this->texte));
+                $latLonTab = explode(",", $latlon);
+                $this->equiMobiCourant->setLatitude($latLonTab[0]);
+                $this->equiMobiCourant->setLongitude($latLonTab[1]);
+            case 'LIBCATEGORIE' :
+                $this->equiMobiCourant->setCategorie(utf8_decode($this->texte));
+                break;
+            case 'ADRESSE' :
+                $this->equiMobiCourant->setAdresse(utf8_decode($this->texte));
+                break;
+            default:
+                # code...
+                break;
+        }
     } 
 
     function startDocument() {
@@ -276,6 +372,11 @@ class MobiliteHandler extends DefaultHandler {
     
     function endDocument() {
         $rien;
+    }
+
+    function characters($txt) {
+        $txt_reduit = trim($txt);
+        if (!(empty($txt_reduit))) $this->texte .= $txt;
     }
 }
 
@@ -293,8 +394,7 @@ class MySaxHandler extends DefaultHandler {
  * ============================================================================
  * Code dégueulasse, placé là pour pouvoir être appelé au chargement de la page
  */
-//$xmlMobilite = file_get_contents('LOC_EQUIPUB_MOBILITE_NM_STBL.xml');
-$xmlSport = file_get_contents('./LOC_EQUIPUB_SPORT_NM_STBL.xml');
+$xmlSport = file_get_contents('../LOC_EQUIPUB_SPORT_NM_STBL.xml');
 
 echo "<?xml version='1.0'?>";
 
@@ -302,7 +402,6 @@ if(is_null($xmlSport)) {
     echo "rien dans le xml de sport !";
 }
 
-//$saxMobilite = new SaxParser(new MobiliteHandler());
 $saxSport = new SaxParser(new SportHandler());
 
 try {
