@@ -2,7 +2,7 @@
 include_once('Sax4PHP.php');
 
 /**
- * Classe regroupant des méthodes utilitaires, statiques.
+ * Classe regroupant des méthodes utilitaires.
  */
 class Utils {
 
