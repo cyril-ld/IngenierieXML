@@ -211,6 +211,13 @@ class SportHandler extends DefaultHandler {
 
     private $longitude;
 
+    private $liste_equipements_sportifs;
+
+    function __construct($new_liste_equipements_sportifs) {
+        $this->liste_equipements_sportifs = $new_liste_equipements_sportifs;
+        parent::__construct();
+    }
+
     function startElement($name, $att) {
         
         // Reset du texte pour récupérer l'élément courant
@@ -233,6 +240,9 @@ class SportHandler extends DefaultHandler {
         switch(utf8_decode($name)) {
             case 'element' :
 
+                // Ajout de l'élément courant dans la liste des équipements sportifs
+                array_push($this->liste_equipements_sportifs, $this->equiSportCourant);
+
                 // Cette instruction doit être la dernière effectuée dans le cas où on quitte le noeud représentant un équipement
                 $this->equiSportCourant = null;
                 break;
@@ -243,20 +253,18 @@ class SportHandler extends DefaultHandler {
                 break;
             case 'ADRESSE' :
                 if (strlen($this->texte) > 0){
-                    $this->equiSportCourant->setAdresse(utf8_decode($this->texte).$this->equiSportCourant->getAdresse());
+                    $this->equiSportCourant->setAdresse(utf8_decode($this->texte)." ".$this->equiSportCourant->getAdresse());
                 }
                 break;
             case 'CODE_POSTAL' :
                 if (strlen($this->texte) > 0){
-                    $this->equiSportCourant->setAdresse($this->equiSportCourant->getAdresse().utf8_decode($this->texte));
+                    $this->equiSportCourant->setAdresse($this->equiSportCourant->getAdresse()." ".utf8_decode($this->texte));
                 }
-                echo is_null($this->equiSportCourant);
                 break;
             case 'COMMUNE' :
                 if (strlen($this->texte) > 0){
-                    $this->equiSportCourant->setAdresse($this->equiSportCourant->getAdresse().utf8_decode($this->texte));
+                    $this->equiSportCourant->setAdresse($this->equiSportCourant->getAdresse()." ".utf8_decode($this->texte));
                 }
-                echo is_null($this->equiSportCourant);
                 break;
             case '_l' :
                 $caracteres = array("[", "]", " ");
@@ -271,11 +279,31 @@ class SportHandler extends DefaultHandler {
     } 
 
     function startDocument() {
-        echo "<document>\n";
+        echo "<liste-equisport>\n";
     } 
     
     function endDocument() {
-        echo "</document>\n";
+        foreach ($this->liste_equipements_sportifs as $value) {
+            echo '<equisport nom="'.utf8_encode($value->getNom()).'" adresse="'.utf8_encode($value->getAdresse()).'">';
+
+            $liste_equipements_mobilite = $value->getEquipements();
+
+            if(count($liste_equipements_mobilite) == 0) {
+                echo '<mobi-proxy/>';
+            } else {
+                echo '<mobi-proxy>';
+                foreach($liste_equipements_mobilite as $equiMobi) {
+                    echo '<nom>'.$equiMobi->getNom().'</nom>';
+                    echo '<categorie>'.$equiMobi->getCategorie().'</categorie>';
+                    echo '<adresse>'.$equiMobi->getAdresse().'</adresse>';
+                    echo '<distance/>';
+                }
+                echo '</mobi-proxy>';
+            }
+
+            echo '</equisport>';
+        }
+        echo "</liste-equisport>\n";
     }
 
     function characters($txt) {
@@ -316,13 +344,14 @@ class MobiliteHandler extends DefaultHandler {
      */
     private $texte;
 
-    function MobiliteHandler(&$equipementSport) {
+    function __construct($equipementSport) {
+        echo 'Constructeur !';
         $this->equipementSport = $equipementSport;
         parent::__construct();
     }
 
     function startElement($name, $att) {
-
+        echo 'start element';
         // Reset du texte pour récupérer l'élément courant
         $this->texte = '';
 
@@ -340,6 +369,7 @@ class MobiliteHandler extends DefaultHandler {
         switch ($name) {
             case 'element':
                 $distance = getDistance($this->equiMobiCourant->getLatitude(), $this->equiMobiCourant->getLongitude(), $this->equipementSport->getLatitude(), $this->equipementSport->getLongitude());
+                echo "Je suis l'élément de fin d'un équipement de mobilité, à ".$distance."m de l'équipement sportif !";
                 if($distance < 500) {
                     $this->equipementSport->addEquipement($this->equiMobiCourant);
                 }
@@ -380,29 +410,21 @@ class MobiliteHandler extends DefaultHandler {
     }
 }
 
-
-class MySaxHandler extends DefaultHandler {
-
-  function startElement($name, $att) {echo "<start name='$name'/>\n";}
-  function endElement($name) {echo "<end name='$name'/>\n";} 
-  
-  function startDocument() {echo "<list>\n";} 
-  function endDocument() {echo "</list>\n";}
-}
-
 /*
  * ============================================================================
  * Code dégueulasse, placé là pour pouvoir être appelé au chargement de la page
  */
 $xmlSport = file_get_contents('../LOC_EQUIPUB_SPORT_NM_STBL.xml');
 
-echo "<?xml version='1.0'?>";
+echo "<?xml version='1.0' encoding='UTF-8'?>";
 
 if(is_null($xmlSport)) {
     echo "rien dans le xml de sport !";
 }
 
-$saxSport = new SaxParser(new SportHandler());
+$liste_equipements_sportifs = array();
+
+$saxSport = new SaxParser(new SportHandler($liste_equipements_sportifs));
 
 try {
     $saxSport->parse($xmlSport);
