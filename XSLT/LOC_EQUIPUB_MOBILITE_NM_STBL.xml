@@ -1,0 +1,4493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./stylesheet.xsl"?>
+<document>
+    <version>1</version>
+    <nb_results>236</nb_results>
+    <mobidata>
+        <element>
+            <geo>
+                <name>Parking ouvrage Médiathèque</name>
+            </geo>
+            <_l>[ 47.2108708271003 , -1.5623381759623]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Rue Neuve des Capucins</ADRESSE>
+            <LIBTYPE>Mixte</LIBTYPE>
+            <_IDOBJ>134</_IDOBJ>
+            <TYPE>100103</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+
+        <element>
+            <geo>
+                <name>Gare SNCF de Doulon</name>
+            </geo>
+            <_l>[ 47.2285285048663 , -1.51724402726267]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue des Perrines</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>245</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Chantenay</name>
+            </geo>
+            <_l>[ 47.1972022454039 , -1.59435499316903]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue de la Gare de Chantenay</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>261</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Gare Nord</name>
+            </geo>
+            <_l>[ 47.2166890401729 , -1.54498433411572]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.resaplace.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 88 88 26</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Boulevard de Stalingrad</ADRESSE>
+            <LIBTYPE>Elévation</LIBTYPE>
+            <_IDOBJ>280</_IDOBJ>
+            <TYPE>100102</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Nantes Nord - Direction régionale</name>
+            </geo>
+            <_l>[ 47.2174431606581 , -1.54235996605665]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Boulevard de Stalingrad</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>281</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare Fluviale Bateaux Nantais</name>
+            </geo>
+            <_l>[ 47.2279684766427 , -1.5516367391695]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bateaux-nantais.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 14 51 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>15 Place Waldeck Rousseau</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>282</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Decré-Bouffay</name>
+            </geo>
+            <_l>[ 47.2166626199643 , -1.55400463227177]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>18 Rue du Moulin</ADRESSE>
+            <LIBTYPE>Mixte</LIBTYPE>
+            <_IDOBJ>284</_IDOBJ>
+            <TYPE>100103</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Graslin</name>
+            </geo>
+            <_l>[ 47.2143102105068 , -1.56257181621741]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Rue Scribe</ADRESSE>
+            <LIBTYPE>Elévation</LIBTYPE>
+            <_IDOBJ>288</_IDOBJ>
+            <TYPE>100102</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Tour Bretagne</name>
+            </geo>
+            <_l>[ 47.2177394198201 , -1.55820163936291]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>4 Place de Bretagne</ADRESSE>
+            <LIBTYPE>Mixte</LIBTYPE>
+            <_IDOBJ>299</_IDOBJ>
+            <TYPE>100103</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare Routière Baco Eurolines</name>
+            </geo>
+            <_l>[ 47.2127402501474 , -1.55276077185068]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.eurolines.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 92 89 90 91</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Allée de la Maison Rouge</ADRESSE>
+            <LIBTYPE>Route</LIBTYPE>
+            <_IDOBJ>663</_IDOBJ>
+            <TYPE>100404</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Commerce</name>
+            </geo>
+            <_l>[ 47.2131202858024 , -1.55771321969051]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Place du Commerce</ADRESSE>
+            <LIBTYPE>Souterrain</LIBTYPE>
+            <_IDOBJ>677</_IDOBJ>
+            <TYPE>100101</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Nantes Sud</name>
+            </geo>
+            <_l>[ 47.216448854427 , -1.54155846026517]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>2 Rue de Lourmel</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>1042</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Aristide Briand</name>
+            </geo>
+            <_l>[ 47.2170936048579 , -1.56293641808053]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.vincipark.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 10 26 30 00</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Place Aristide Briand</ADRESSE>
+            <LIBTYPE>Souterrain</LIBTYPE>
+            <_IDOBJ>1043</_IDOBJ>
+            <TYPE>100101</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Cité des Congrès</name>
+            </geo>
+            <_l>[ 47.2129016709023 , -1.54397127716684]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Avenue Jean Claude Bonduelle</ADRESSE>
+            <LIBTYPE>Souterrain</LIBTYPE>
+            <_IDOBJ>1044</_IDOBJ>
+            <TYPE>100101</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Gare Sud 1</name>
+            </geo>
+            <_l>[ 47.2161496359544 , -1.54103682846398]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.resaplace.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 88 88 26</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Rue de Lourmel</ADRESSE>
+            <LIBTYPE>Elévation</LIBTYPE>
+            <_IDOBJ>1045</_IDOBJ>
+            <TYPE>100102</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Talensac</name>
+            </geo>
+            <_l>[ 47.2202559810468 , -1.55835729990237]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Rue Le Nôtre</ADRESSE>
+            <LIBTYPE>Elévation</LIBTYPE>
+            <_IDOBJ>1046</_IDOBJ>
+            <TYPE>100102</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Recteur Schmitt 1</name>
+            </geo>
+            <_l>[ 47.2517352538688 , -1.55290310437924]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue Recteur Schmitt</ADRESSE>
+            <LIBTYPE>Ouvrage</LIBTYPE>
+            <_IDOBJ>1341</_IDOBJ>
+            <TYPE>100201</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Capitainerie du Port Atlantique Nantes Saint Nazaire</name>
+            </geo>
+            <_l>[ 47.2054007823477 , -1.57398139134178]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.nantes.port.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 20 53</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Quai Ernest Renaud</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>1581</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Port Autonome de Nantes Saint Nazaire</name>
+            </geo>
+            <_l>[ 47.2055111148953 , -1.57471135472788]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.nantes.port.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 20 20</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>18 Quai Ernest Renaud</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>1583</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Port de l'Erdre</name>
+            </geo>
+            <_l>[ 47.2252035773148 , -1.55372459801084]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.nge-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 37 04 62</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Quai de Versailles</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>1624</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Service Maritime et Navigation Ecluse Saint Félix</name>
+            </geo>
+            <_l>[ 47.2125286072856 , -1.54089899952201]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.equipement.gouv.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 71 02 19</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Quai Ferdinand Favre</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>1658</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Basse Indre St-Herblain</name>
+            </geo>
+            <_l>[ 47.2040832390443 , -1.66031284128023]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44800</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-HERBLAIN</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue de la Gare</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>1805</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aéroport Nantes Atlantique</name>
+            </geo>
+            <_l>[ 47.1575191481928 , -1.60178206983725]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44340</CODE_POSTAL>
+            <WEB>www.nantes.aeroport.fr</WEB>
+            <STATUT>Public</STATUT>
+            <TELEPHONE>02 40 84 80 00</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BOUGUENAIS</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue Clément Ader</ADRESSE>
+            <LIBTYPE>Aérien</LIBTYPE>
+            <_IDOBJ>2109</_IDOBJ>
+            <TYPE>100401</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Bacs de Loire entre Basse-Indre et Indret</name>
+            </geo>
+            <_l>[ 47.1977692572592 , -1.67391847052844]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44610</CODE_POSTAL>
+            <WEB>www.loire-atlantique.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 86 01 29</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>INDRE</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Quai Victor Boquien</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>2374</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Bouaye</name>
+            </geo>
+            <_l>[ 47.1380452446435 , -1.68110358820185]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44830</CODE_POSTAL>
+            <WEB>www.ter-sncf.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BOUAYE</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Allée Louis Armand</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>2375</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Couëron</name>
+            </geo>
+            <_l>[ 47.2219441875147 , -1.72359939991892]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44220</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>COUERON</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue de la Gare</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>2452</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Bacs de Loire entre Couëron et Le Pellerin</name>
+            </geo>
+            <_l>[ 47.2059274676151 , -1.75225472914734]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44220</CODE_POSTAL>
+            <WEB>www.loire-atlantique.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 86 01 29</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>COUERON</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>RD 91</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>2497</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Rezé Pont-Rousseau</name>
+            </geo>
+            <_l>[ 47.193331595479 , -1.54939210542755]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue de la Gare</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>2517</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Thouaré-sur-Loire</name>
+            </geo>
+            <_l>[ 47.2651201184653 , -1.44096386071447]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44470</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>THOUARE-SUR-LOIRE</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Place de la République</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>2518</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Mauves-sur-Loire</name>
+            </geo>
+            <_l>[ 47.2930081697889 , -1.38930347898703]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44470</CODE_POSTAL>
+            <WEB>www.voyages-sncf.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>MAUVES-SUR-LOIRE</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>2 Place de la Gare</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>2519</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de Vertou</name>
+            </geo>
+            <_l>[ 47.1861434794643 , -1.47803194855925]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44120</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>VERTOU</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Impasse de la Gare</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>2520</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Port de Trentemoult</name>
+            </geo>
+            <_l>[ 47.1953745261745 , -1.57890616493528]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.nge-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Allée Claude Choëmet</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>2532</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Port de Couëron</name>
+            </geo>
+            <_l>[ 47.2091256884984 , -1.72995922379383]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44220</CODE_POSTAL>
+            <WEB>www.nge-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>COUERON</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Boulevard Gambetta</ADRESSE>
+            <LIBTYPE>Fluvial</LIBTYPE>
+            <_IDOBJ>2533</_IDOBJ>
+            <TYPE>100402</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Frachon</name>
+            </geo>
+            <_l>[ 47.2186961365515 , -1.62163336178234]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44800</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-HERBLAIN</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Boulevard Salvador Allende</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3188</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Le Cardo</name>
+            </geo>
+            <_l>[ 47.2625020936155 , -1.58451198079141]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44700</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ORVAULT</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Esplanade du Cardo</ADRESSE>
+            <LIBTYPE>Ouvrage</LIBTYPE>
+            <_IDOBJ>3189</_IDOBJ>
+            <TYPE>100201</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway François Mitterrand</name>
+            </geo>
+            <_l>[ 47.22170620087 , -1.63948414305523]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44800</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-HERBLAIN</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue Virginia Woolf</ADRESSE>
+            <LIBTYPE>Ouvrage</LIBTYPE>
+            <_IDOBJ>3190</_IDOBJ>
+            <TYPE>100201</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Recteur Schmitt 2</name>
+            </geo>
+            <_l>[ 47.2520277017386 , -1.55247038464754]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue Recteur Schmitt</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3191</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway La Beaujoire</name>
+            </geo>
+            <_l>[ 47.2594833036504 , -1.52739847057661]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue Colette</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3192</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway 8 Mai</name>
+            </geo>
+            <_l>[ 47.1901779141219 , -1.55169145198101]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Avenue André Malraux</ADRESSE>
+            <LIBTYPE>Ouvrage</LIBTYPE>
+            <_IDOBJ>3194</_IDOBJ>
+            <TYPE>100201</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Trocardière</name>
+            </geo>
+            <_l>[ 47.1832927458839 , -1.57109558940531]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Avenue Léon Blum</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3195</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway René Cassin</name>
+            </geo>
+            <_l>[ 47.2639509260101 , -1.57499790750312]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Route de la Chapelle Sur Erdre</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3196</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Pirmil</name>
+            </geo>
+            <_l>[ 47.1973586776381 , -1.54153359455402]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue Esnoult des Châtelets</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3197</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Goudy</name>
+            </geo>
+            <_l>[ 47.1960989467374 , -1.5410477469437]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue Gabriel Goudy</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3198</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Frêne Rond</name>
+            </geo>
+            <_l>[ 47.1905492575224 , -1.49621830894861]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44230</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-SEBASTIEN</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue de l'Ouche Quinet</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3200</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Gare de Vertou Nord</name>
+            </geo>
+            <_l>[ 47.1864023763705 , -1.47916185458301]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44120</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>VERTOU</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Impasse de la Gare</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3201</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Gare de Vertou Sud</name>
+            </geo>
+            <_l>[ 47.1856830197378 , -1.4785719721858]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44120</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>VERTOU</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue du Bois Rigaud</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3202</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Plaisance</name>
+            </geo>
+            <_l>[ 47.2405326620207 , -1.59344052396589]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44800</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-HERBLAIN</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Route de Vannes</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3227</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de St-Sébastien Frêne Rond</name>
+            </geo>
+            <_l>[ 47.1902026129156 , -1.49592805587597]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44230</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-SEBASTIEN</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue de l'Ouche Quinet</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>3353</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Gloriette 1</name>
+            </geo>
+            <_l>[ 47.2111796553233 , -1.55843872950464]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Allée de l'Ile Gloriette</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3549</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Hôtel Dieu</name>
+            </geo>
+            <_l>[ 47.2110570860299 , -1.55198311230427]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Chaussée de la Madeleine</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3550</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Baco-LU 2 côté CHU</name>
+            </geo>
+            <_l>[ 47.2131509800273 , -1.55160425745185]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Allée Baco</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3551</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Gare des Pas Enchantés</name>
+            </geo>
+            <_l>[ 47.2082290545652 , -1.51299644307533]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44230</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-SEBASTIEN</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue de la Loire</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3552</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare SNCF de St-Sébastien Pas Enchantés</name>
+            </geo>
+            <_l>[ 47.2070087740385 , -1.51111306351385]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44230</CODE_POSTAL>
+            <WEB>www.gares-connexions.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>36 35</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-SEBASTIEN</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue du Docteur Paul Michaux</ADRESSE>
+            <LIBTYPE>Rail</LIBTYPE>
+            <_IDOBJ>3553</_IDOBJ>
+            <TYPE>100403</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Château</name>
+            </geo>
+            <_l>[ 47.2169899609793 , -1.54785044968527]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Rue Henri IV</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3554</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Gare Sud 3</name>
+            </geo>
+            <_l>[ 47.216135859474 , -1.53789482834948]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.resaplace.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 88 88 26</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Rue Marcel Paul</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3555</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Gare de Couëron</name>
+            </geo>
+            <_l>[ 47.2217771934083 , -1.72363750160792]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44220</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>COUERON</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue de la Gare</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3556</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Neustrie 2</name>
+            </geo>
+            <_l>[ 47.176672451111 , -1.59339969648243]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44340</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BOUGUENAIS</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue de la Neustrie</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3558</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais navibus Trentemoult-Roquios</name>
+            </geo>
+            <_l>[ 47.1952525112789 , -1.57778393206355]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Quai Surcouf</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3560</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Gare de Basse-Indre Saint-Herblain</name>
+            </geo>
+            <_l>[ 47.2041579741319 , -1.66103809646199]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44800</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-HERBLAIN</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue de la Gare</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3561</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Neustrie 1</name>
+            </geo>
+            <_l>[ 47.1756933085378 , -1.5932723508575]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44340</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BOUGUENAIS</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Chemin de la Neustrie</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3562</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER</name>
+            </geo>
+            <_l>[ 47.2647119908848 , -1.4413893536783]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44470</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>THOUARE-SUR-LOIRE</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue des Ponts</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3564</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Gare de Mauves-sur-Loire</name>
+            </geo>
+            <_l>[ 47.2932583339329 , -1.388904886686]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44470</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>MAUVES-SUR-LOIRE</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>2 Place de la Gare</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3565</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Gare de Bouaye</name>
+            </geo>
+            <_l>[ 47.1383223686803 , -1.68257543659362]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44830</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BOUAYE</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Allée Louis Armand</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3566</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais navibus Trentemoult-Dépôt</name>
+            </geo>
+            <_l>[ 47.1919649895095 , -1.58068768637466]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue Ordronneau</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3582</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Morlière Paquelais</name>
+            </geo>
+            <_l>[ 47.2478235218625 , -1.60283874722482]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44700</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ORVAULT</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>50 Avenue de la Paquelais</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3583</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Orvault Morlière</name>
+            </geo>
+            <_l>[ 47.2467766477065 , -1.60304946676259]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44700</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ORVAULT</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Avenue de la Morlière</ADRESSE>
+            <LIBTYPE>Ouvrage</LIBTYPE>
+            <_IDOBJ>3584</_IDOBJ>
+            <TYPE>100201</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Beauséjour</name>
+            </geo>
+            <_l>[ 47.2384135213971 , -1.5873437488368]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>142 Route de Vannes</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3586</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Gare Sud 2</name>
+            </geo>
+            <_l>[ 47.2142340366163 , -1.54134337584288]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.resaplace.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 88 88 26</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Quai Malakoff</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3589</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Gare Sud 2 limité 1h</name>
+            </geo>
+            <_l>[ 47.2152021232956 , -1.54267513884661]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.resaplace.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 88 88 26</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Quai Malakoff</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3590</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais busway Porte de Vertou</name>
+            </geo>
+            <_l>[ 47.1801752959869 , -1.50516017764927]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44120</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>VERTOU</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Boulevard Auguste Priou</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3627</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais busway Gréneraie</name>
+            </geo>
+            <_l>[ 47.2001390392692 , -1.53333362324729]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Boulevard Emile Gabory</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3628</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais busway Bourdonnières 1</name>
+            </geo>
+            <_l>[ 47.186255590967 , -1.52115429456528]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Boulevard de Vendée</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3629</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais busway Chapeau Verni</name>
+            </geo>
+            <_l>[ 47.1894575221521 , -1.51151075562911]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44230</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>VERTOU</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Route de Clisson</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3630</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais TER Gare de Pont-Rousseau</name>
+            </geo>
+            <_l>[ 47.1928009988406 , -1.5481902720875]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Avenue de la Libération</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3648</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Bignon</name>
+            </geo>
+            <_l>[ 47.2489752466115 , -1.59820022515513]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44700</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ORVAULT</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue des Verts Prés</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3649</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Bellamy</name>
+            </geo>
+            <_l>[ 47.2223604161017 , -1.55769369256355]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Impasse de la Courtine</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3650</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos CHU</name>
+            </geo>
+            <_l>[ 47.2093619715999 , -1.55725023399242]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Quai de Tourville</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3651</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Cathédrale</name>
+            </geo>
+            <_l>[ 47.2208133510721 , -1.55105616832611]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Rue Sully</ADRESSE>
+            <LIBTYPE>Souterrain</LIBTYPE>
+            <_IDOBJ>3652</_IDOBJ>
+            <TYPE>100101</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais busway Maraîchers</name>
+            </geo>
+            <_l>[ 47.1851690235263 , -1.51067420037066]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44120</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>VERTOU</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue de la Grand' Maison</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3655</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>1 Station Abonnement Préfecture</name>
+            </geo>
+            <_l>[ 47.2201950669957 , -1.55417604861584]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>5 Quai Ceineray</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3685</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>2 Station Accueil Hôtel de Ville</name>
+            </geo>
+            <_l>[ 47.2185640015645 , -1.55354426853678]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>29 Rue de Strasbourg</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3686</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>3 Station Accueil Strasbourg</name>
+            </geo>
+            <_l>[ 47.216532854728 , -1.55161756498412]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Tirant Lo Blanc</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3687</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>4 Station Accueil Moulin</name>
+            </geo>
+            <_l>[ 47.2166468712003 , -1.55442584710721]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>18 Rue du Moulin</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3688</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>5 Station Accueil Brossard</name>
+            </geo>
+            <_l>[ 47.2188225831247 , -1.5563270902907]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>12 Allée Duquesne</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3689</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>6 Station Abonnement Place du Cirque</name>
+            </geo>
+            <_l>[ 47.2176522877325 , -1.55686962933674]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>7 Allée Duquesne</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3690</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>7 Station Accueil Barillerie</name>
+            </geo>
+            <_l>[ 47.2154096299385 , -1.5561003799956]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>2 Allée Penthiévre</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3691</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>8 Station Abonnement Boucherie</name>
+            </geo>
+            <_l>[ 47.2162081426351 , -1.55709068678671]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue de la Boucherie</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3692</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>9 Station Accueil Guépin</name>
+            </geo>
+            <_l>[ 47.2158294340716 , -1.55915573787153]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>2 Rue du Calvaire</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3693</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>11 Station Accueil Calvaire</name>
+            </geo>
+            <_l>[ 47.2155991819633 , -1.56060630687651]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place des Volontaires de la Défense Passive</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3695</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>12 Station Abonnement et Bonus Place Delorme</name>
+            </geo>
+            <_l>[ 47.2151581344299 , -1.56396356682832]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>2 Boulevard Gabriel Guist'Hau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3696</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>13 Station Abonnement et Bonus Bretagne Sud</name>
+            </geo>
+            <_l>[ 47.2167500594478 , -1.55915731787571]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>1 Rue Pierre Chéreau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3697</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>14 Station Accueil Saint-Félix</name>
+            </geo>
+            <_l>[ 47.2306076047205 , -1.55623411620874]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Amiral Courbet</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3698</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>15 Station Accueil Place Aristide Briand</name>
+            </geo>
+            <_l>[ 47.2171962876433 , -1.56300550348212]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Aristide Briand</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3699</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>16 Station Accueil Place Edouard Normand</name>
+            </geo>
+            <_l>[ 47.2190280325433 , -1.56349473337675]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Edouard Normand</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3700</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>17 Station Accueil Sainte Elisabeth</name>
+            </geo>
+            <_l>[ 47.219225442242 , -1.56158876841816]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>3 Place Sainte Elisabeth</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3701</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>18 Station Abonnement et Bonus Place Viarme</name>
+            </geo>
+            <_l>[ 47.2214408780072 , -1.56332698114374]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>23 Place Viarme</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3702</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>19 Station Accueil Saint Similien</name>
+            </geo>
+            <_l>[ 47.219835952652 , -1.55892890964265]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>1 Place Saint Similien</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3703</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>20 Station Abonnement Bellamy</name>
+            </geo>
+            <_l>[ 47.223348795628 , -1.55765985443575]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>29 Rue Paul Bellamy</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3704</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>21 Station Accueil Marché Talensac Sud</name>
+            </geo>
+            <_l>[ 47.221154818394 , -1.55649477179845]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue de Talensac</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3705</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>22 Station Accueil Moquechien</name>
+            </geo>
+            <_l>[ 47.2203790474815 , -1.55558297927192]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>8 Rue Moquechien</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3706</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>23 Station Accueil Buat</name>
+            </geo>
+            <_l>[ 47.2271569726 , -1.54242264341268]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>101 Rue Général Buat</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3707</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>24 Station Accueil Versailles</name>
+            </geo>
+            <_l>[ 47.2244233838765 , -1.55372803210723]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Quai de Versailles</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3708</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>25 Station Abonnement Dalby</name>
+            </geo>
+            <_l>[ 47.2236126488755 , -1.53010845738847]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Ernest Dalby</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3709</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>27 Station Accueil Guist'hau Nord</name>
+            </geo>
+            <_l>[ 47.2179401852254 , -1.56926720618524]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>44 Boulevard Gabriel Guist'Hau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3710</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>26 Station Abonnement et Bonus Guist'hau Sud</name>
+            </geo>
+            <_l>[ 47.2168394453051 , -1.56702335731262]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>26T Boulevard Gabriel Guist'Hau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3711</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>28 Station Accueil Place Edit de Nantes</name>
+            </geo>
+            <_l>[ 47.2144590279511 , -1.56761075012927]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place de l'Edit de Nantes</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3712</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>29 Station Accueil Duguay Trouin</name>
+            </geo>
+            <_l>[ 47.2134615787904 , -1.55528850840637]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>7 Allée Duguay Trouin</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3714</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>30 Station Abonnement Commerce</name>
+            </geo>
+            <_l>[ 47.2131450294256 , -1.55738072263822]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Allée Brancas</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3715</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>31 Station Accueil Bourse</name>
+            </geo>
+            <_l>[ 47.2120943808486 , -1.55910527758924]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Allée de la Bourse</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3716</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>32 Station Accueil Rubens</name>
+            </geo>
+            <_l>[ 47.2143514409189 , -1.56028729072365]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Rubens</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3717</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>33 Station Accueil Racine</name>
+            </geo>
+            <_l>[ 47.2134832603266 , -1.5631877058962]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>5 Rue Racine</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3718</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>34 Station Abonnement Médiathèque</name>
+            </geo>
+            <_l>[ 47.2109126549257 , -1.5618418449525]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>24 Quai de la Fosse</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3719</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>35 Station Abonnement Jean V</name>
+            </geo>
+            <_l>[ 47.212180370735 , -1.56556289207478]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Jean V</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3720</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>36 Station Accueil Alger</name>
+            </geo>
+            <_l>[ 47.210705238574 , -1.5666743136651]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>5 Rue d'Alger</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3721</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>37 Station Accueil Feydeau</name>
+            </geo>
+            <_l>[ 47.2114728989176 , -1.55688248342545]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Gaston Veil</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3722</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>38 Station Abonnement Place Ricordeau</name>
+            </geo>
+            <_l>[ 47.2120904234566 , -1.55313666650746]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Chaussée de la Madeleine</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3723</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>39 Station Accueil Quai Moncousu</name>
+            </geo>
+            <_l>[ 47.2093654560619 , -1.555248414263]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>10 Quai Moncousu</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3724</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>40 Station Accueil Madeleine</name>
+            </geo>
+            <_l>[ 47.208815874652 , -1.5504304749082]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>2 Quai Moncousu</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3725</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>41 Station Accueil Chantier Naval</name>
+            </geo>
+            <_l>[ 47.2083688395591 , -1.56954316224266]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Mathurin Brissonneau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3726</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>42 Station Abonnement Gare Maritime</name>
+            </geo>
+            <_l>[ 47.2066090811753 , -1.57262953237793]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Quai Ernest Renaud</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3727</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>43 Station Abonnement Machines de l'Ile</name>
+            </geo>
+            <_l>[ 47.2069302605475 , -1.56482580615095]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>2 Boulevard Léon Bureau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3728</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>44 Station Accueil Palais de Justice</name>
+            </geo>
+            <_l>[ 47.2083631782056 , -1.56124245373142]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>19 Quai François Mitterrand</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3729</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>45 Station Accueil Prairie au Duc</name>
+            </geo>
+            <_l>[ 47.2047848192062 , -1.55888284017234]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard de la Prairie au Duc</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3730</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>46 Station Accueil Place République</name>
+            </geo>
+            <_l>[ 47.2054012265916 , -1.55519386163571]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>3 Place de la République</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3731</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>47 Station Abonnement Martyrs Nantais</name>
+            </geo>
+            <_l>[ 47.207035364629 , -1.54817985054706]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>21 Boulevard Gaston Doumergue</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3732</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>48 Station Abonnement Verdun</name>
+            </geo>
+            <_l>[ 47.217516769716 , -1.55186817651381]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>17 Rue de Verdun</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3733</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>49 Station Accueil Duchesse Anne</name>
+            </geo>
+            <_l>[ 47.2165287485861 , -1.54707722079028]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Henri IV</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3734</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>50 Station Abonnement Château</name>
+            </geo>
+            <_l>[ 47.2151359323236 , -1.55027600234498]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>2 Rue des Etats</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3735</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>52 Station Accueil Baco</name>
+            </geo>
+            <_l>[ 47.2143388426474 , -1.54876893751898]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Allée Baco</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3737</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>53 Station Accueil Olivettes</name>
+            </geo>
+            <_l>[ 47.2117494265765 , -1.54995935107843]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>10 Rue des Olivettes</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3738</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>54 Station Abonnement Cité Internationale des Congrès</name>
+            </geo>
+            <_l>[ 47.2131685540285 , -1.54502748383111]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue de Jemmapes</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3739</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>55 Station Accueil Magellan</name>
+            </geo>
+            <_l>[ 47.2106839754833 , -1.54424826339243]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>11 Rue de Belfort</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3740</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>56 Station Accueil Vincent Gache</name>
+            </geo>
+            <_l>[ 47.2068847351676 , -1.54185096726864]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>9 Rue François Albert</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3741</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>57 Station Abonnement Gaëtan Rondeau</name>
+            </geo>
+            <_l>[ 47.2054072118627 , -1.53760013962524]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>20 Rue Gaëtan Rondeau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3742</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>58 Station Accueil Palais des Sports</name>
+            </geo>
+            <_l>[ 47.2084771961567 , -1.53599916068622]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>21 Rue René Viviani</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3743</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>59 Station Accueil Stade Saupin</name>
+            </geo>
+            <_l>[ 47.2139780010056 , -1.53963958134972]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>35 Quai Malakoff</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3744</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>60 Station Abonnement Gare Sud</name>
+            </geo>
+            <_l>[ 47.2159307421474 , -1.54286596091712]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nanresmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>12 Rue de Lourmel</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3745</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>61 Station Accueil LU Lieu Unique</name>
+            </geo>
+            <_l>[ 47.2156027850142 , -1.54592421117785]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Quai Malakoff</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3746</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>62 Station Abonnement Gare Nord</name>
+            </geo>
+            <_l>[ 47.2181414046142 , -1.54224096840209]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>1 Place Charles le Roux</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3747</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>63 Station Accueil Jardins des Plantes</name>
+            </geo>
+            <_l>[ 47.2199317719337 , -1.54476410962437]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>6 Rue Stanislas Baudry</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3748</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>64 Station Abonnement et Bonus Saint Clément</name>
+            </geo>
+            <_l>[ 47.2217983948072 , -1.54717172480906]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>37 Rue Maréchal Joffre</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3750</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>65 Station Accueil Sully</name>
+            </geo>
+            <_l>[ 47.2225988184658 , -1.5516848391931]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>7 Cours Sully</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3751</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>66 Station Accueil Chanzy</name>
+            </geo>
+            <_l>[ 47.2254413947716 , -1.54801802179078]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Avenue Chanzy</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3752</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>67 Station Accueil Place Waldeck Rousseau</name>
+            </geo>
+            <_l>[ 47.2277863381608 , -1.55216613912966]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Waldeck Rousseau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3753</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>68 Station Accueil Livet</name>
+            </geo>
+            <_l>[ 47.2240954955051 , -1.54521632095855]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nanresmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>65 Rue Dufour</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3754</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>69 Station Accueil Manufacture</name>
+            </geo>
+            <_l>[ 47.2192276992993 , -1.53586535019784]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>11 Boulevard de Stalingrad</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3755</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>70 Station Abonnement et Bonus Foch Cathédrale</name>
+            </geo>
+            <_l>[ 47.2186945659362 , -1.55048013677801]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue de l'Evêché</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3756</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>71 Station Abonnement et Bonus Marché Talensac Nord</name>
+            </geo>
+            <_l>[ 47.2219103419541 , -1.55906934287743]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>17 Rue de Bel Air</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3757</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>73 Station Accueil Sarradin</name>
+            </geo>
+            <_l>[ 47.2208837667212 , -1.57050717785263]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>4 Place Emile Sarradin</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3759</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>74 Station Accueil Place Canclaux</name>
+            </geo>
+            <_l>[ 47.2143716842925 , -1.57500608192678]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>8 Place Canclaux</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3760</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>75 Station Accueil Lamoricière</name>
+            </geo>
+            <_l>[ 47.212365614395 , -1.57139899840128]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Lamoricière</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3761</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>76 Station Accueil Place René Bouhier</name>
+            </geo>
+            <_l>[ 47.2094420409641 , -1.57058928666779]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>8 Place René Bouhier</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3762</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>77 Station Accueil Ecole d'Architecture</name>
+            </geo>
+            <_l>[ 47.2076169020017 , -1.55755125966966]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Quai François Mitterrand</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3763</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>78 Station Accueil De Gaulle</name>
+            </geo>
+            <_l>[ 47.2084603783954 , -1.54056873329161]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Général de Gaulle</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3764</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>79 Station Accueil Malakoff</name>
+            </geo>
+            <_l>[ 47.2132345266324 , -1.53642071591634]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>13 Quai Malakoff</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3765</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Marcel Paul</name>
+            </geo>
+            <_l>[ 47.2459045698135 , -1.61800834963946]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44800</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-HERBLAIN</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Boulevard Marcel Paul</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>3776</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Grande Ouche</name>
+            </geo>
+            <_l>[ 47.1819948350479 , -1.57947203525665]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44340</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BOUGUENAIS</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue de la Grande Ouche</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3777</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais busway Bourdonnières 2</name>
+            </geo>
+            <_l>[ 47.1867242428305 , -1.52315133155692]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue des Bourdonnières</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>3778</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>87 Station Accueil Anatole-France</name>
+            </geo>
+            <_l>[ 47.2236164437223 , -1.57139236049388]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>34 Rue Alexandre Dumas</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3830</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>86 Station Accueil Hauts-Pavés</name>
+            </geo>
+            <_l>[ 47.2254822618338 , -1.56752047182291]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue des Hauts Pavés</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3831</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>88 Station Accueil Mellinet</name>
+            </geo>
+            <_l>[ 47.211489622114 , -1.57712676541886]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>1 Boulevard Allard</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3833</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>89 Station Accueil Saint-Aignan</name>
+            </geo>
+            <_l>[ 47.2074440639466 , -1.57871509661417]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>65 Boulevard Saint Aignan</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3834</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>80 Station Accueil Victor-Hugo</name>
+            </geo>
+            <_l>[ 47.2040143599928 , -1.55156732506795]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Victor Hugo</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3835</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>81 Station Abonnement Mangin</name>
+            </geo>
+            <_l>[ 47.2010219272 , -1.54549762740334]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>8 Place Victor Mangin</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3836</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>82 Station Accueil Sébilleau</name>
+            </geo>
+            <_l>[ 47.2067685846983 , -1.53313636292619]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Docteur Jules Sébilleau</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3837</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>83 Station Abonnement Millerand</name>
+            </geo>
+            <_l>[ 47.208217819463 , -1.53016141349475]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>9 Boulevard Alexandre Millerand</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3838</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>84 Station Accueil Région</name>
+            </geo>
+            <_l>[ 47.2107532371851 , -1.52595127548116]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Gaston Defferre</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3839</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Courte Durée Gare Nord</name>
+            </geo>
+            <_l>[ 47.2172647322169 , -1.54347875084443]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.resaplace.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 88 88 26</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Boulevard de Stalingrad</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3950</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Les Machines</name>
+            </geo>
+            <_l>[ 47.2059006220645 , -1.56272779236372]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.resaplace.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 88 88 26</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>Rue Arthur III</ADRESSE>
+            <LIBTYPE>Elévation</LIBTYPE>
+            <_IDOBJ>3951</_IDOBJ>
+            <TYPE>100102</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>85 Station Accueil et Bonus Bel Air</name>
+            </geo>
+            <_l>[ 47.2264060339437 , -1.56004122137593]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>102 Rue Paul Bellamy</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3952</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>10 Station Accueil Picasso</name>
+            </geo>
+            <_l>[ 47.2163435868477 , -1.53422912101255]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Mail Pablo Picasso</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3973</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>51 Station Abonnement Berlin</name>
+            </geo>
+            <_l>[ 47.2143914699763 , -1.53007250061588]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard de Berlin</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3974</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parking ouvrage Gare Sud 4</name>
+            </geo>
+            <_l>[ 47.2152099260756 , -1.53754504260148]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.resaplace.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 88 88 26</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parking Ouvrage</LIBCATEGORIE>
+            <ADRESSE>24 Mail Pablo Picasso</ADRESSE>
+            <LIBTYPE>Souterrain</LIBTYPE>
+            <_IDOBJ>3989</_IDOBJ>
+            <TYPE>100101</TYPE>
+            <CATEGORIE>1001</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Pac en enclos Viviani</name>
+            </geo>
+            <_l>[ 47.2087756042897 , -1.53619706978924]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Rue René Viviani</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>3990</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>92 Station Abonnement Rond Point Rennes</name>
+            </geo>
+            <_l>[ 47.2330917037559 , -1.56601698077602]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rond-Point de Rennes</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3993</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>91 Station Abonnement Rond Point Vannes</name>
+            </geo>
+            <_l>[ 47.229675345348 , -1.57201209125591]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>63B Boulevard Lelasseur</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3994</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>90 Station Abonnement Procé</name>
+            </geo>
+            <_l>[ 47.2243215861999 , -1.57658356660229]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Gaston Serpette</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3995</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>102 Station Abonnement Gare Pont Rousseau</name>
+            </geo>
+            <_l>[ 47.1931492766954 , -1.54900545446362]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue de la Gare</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3996</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>101 Station Abonnement Pirmil</name>
+            </geo>
+            <_l>[ 47.1966294882289 , -1.54145063364339]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Esnoult des Châtelets</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3997</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>99 Station Accueil Saint-Jacques</name>
+            </geo>
+            <_l>[ 47.1958591605985 , -1.53658962887906]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>85 Rue Saint Jacques</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3998</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>100 Station Abonnement Gréneraie</name>
+            </geo>
+            <_l>[ 47.1999707101929 , -1.5346071537874]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Côte Saint Sébastien</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>3999</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>96 Station Abonnement Tortière</name>
+            </geo>
+            <_l>[ 47.2353448001876 , -1.54947343741177]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Eugène Orieux</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>4000</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>95 Station Abonnement Michelet</name>
+            </geo>
+            <_l>[ 47.2350837066755 , -1.55638870204855]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>38 Boulevard Michelet</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>4001</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>94 Station Abonnement Petit Port</name>
+            </geo>
+            <_l>[ 47.2432626440766 , -1.55638098635507]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place du Huit Mai 1945</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>4002</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>93 Station Abonnement Facultés</name>
+            </geo>
+            <_l>[ 47.2463232883454 , -1.5553383498054]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Guy Mollet</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>4003</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>97 Station Accueil Saint-Donatien</name>
+            </geo>
+            <_l>[ 47.2291287626691 , -1.5404024174378]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>69 Rue Général Buat</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>4004</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>98 Station Abonnement Huit Mai</name>
+            </geo>
+            <_l>[ 47.1899986201306 , -1.55182125953104]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place du 8 Mai 1945</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>4005</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Piano'cktail</name>
+            </geo>
+            <_l>[ 47.1743921106395 , -1.60539271713277]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44340</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BOUGUENAIS</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>Rue Ginsheim Gustavsburg</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4010</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Le Paradis</name>
+            </geo>
+            <_l>[ 47.2058433058368 , -1.751615681513]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44220</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>COUERON</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>RD 91</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4011</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Le Vélodrôme</name>
+            </geo>
+            <_l>[ 47.2114911474736 , -1.73553587146421]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44220</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>COUERON</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>Boulevard Francois Blancho</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4012</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Les Ormeaux</name>
+            </geo>
+            <_l>[ 47.1558857839796 , -1.68247122952125]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44830</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BOUAYE</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>Esplanade de l'Edit de Nantes</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4013</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Georges Brassens</name>
+            </geo>
+            <_l>[ 47.1833082568459 , -1.6759732987008]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44620</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>LA-MONTAGNE</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>Rue de la Gaudinière</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4014</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage La Herdrie</name>
+            </geo>
+            <_l>[ 47.1981364148521 , -1.4545741556611]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44115</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>BASSE-GOULAINE</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>Route du Loroux Bottereau</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4015</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Pas Enchantés</name>
+            </geo>
+            <_l>[ 47.2103889373405 , -1.5039410584835]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44230</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-SEBASTIEN</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>Boulevard des Pas Enchantés</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4016</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Les 3 Brasseurs</name>
+            </geo>
+            <_l>[ 47.1909311959939 , -1.48944982933608]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44230</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-SEBASTIEN</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>Rue Marie Curie</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4017</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage La Charmelière</name>
+            </geo>
+            <_l>[ 47.2948276010662 , -1.47381722266676]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44470</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>CARQUEFOU</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>RD 37</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4018</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage La Croix de Mauves</name>
+            </geo>
+            <_l>[ 47.3002662582306 , -1.39817225866548]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44470</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>MAUVES-SUR-LOIRE</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>RD 723</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4019</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Bretagne</name>
+            </geo>
+            <_l>[ 47.2174899073883 , -1.55963354318143]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place de Bretagne</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4020</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station 50 Otages</name>
+            </geo>
+            <_l>[ 47.2184474307694 , -1.55759693321303]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Didienne</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4021</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Hôtel de Ville</name>
+            </geo>
+            <_l>[ 47.2176490515034 , -1.55407383358279]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Fanny Peccot</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4022</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Aristide Briand</name>
+            </geo>
+            <_l>[ 47.2172290515068 , -1.5624656224159]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Aristide Briand</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4023</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Commerce</name>
+            </geo>
+            <_l>[ 47.2123927720913 , -1.55794606610268]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place de la Petite Hollande</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4024</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Musée d'Histoire Naturelle</name>
+            </geo>
+            <_l>[ 47.2124896929622 , -1.56438071337637]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Lesage</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4025</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Baco</name>
+            </geo>
+            <_l>[ 47.2125436084857 , -1.55292426920598]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Allée de la Maison Rouge</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4026</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station CIO</name>
+            </geo>
+            <_l>[ 47.211224204201 , -1.54530733424582]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue de Mayence</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4027</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Cité des Congrès</name>
+            </geo>
+            <_l>[ 47.2132409347 , -1.54452831608963]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue de Valmy</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4028</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Gare SNCF Sud</name>
+            </geo>
+            <_l>[ 47.2149069334244 , -1.54185994912442]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Quai Malakoff</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4029</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Manufacture</name>
+            </geo>
+            <_l>[ 47.219107562114 , -1.53586498523079]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard de Stalingrad</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4030</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Rond Point de Paris</name>
+            </geo>
+            <_l>[ 47.2344561541767 , -1.53529009313813]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Jules Verne</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4031</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Ecole d'Architecture</name>
+            </geo>
+            <_l>[ 47.2064491542021 , -1.55657046348583]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place François II</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4032</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Mangin</name>
+            </geo>
+            <_l>[ 47.2012759690694 , -1.54518063963327]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Victor Hugo</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4033</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Chantiers Navals</name>
+            </geo>
+            <_l>[ 47.2090844722945 , -1.56838861516619]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Charles Brunellière</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4034</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Mairie de Chantenay</name>
+            </geo>
+            <_l>[ 47.2065168340528 , -1.58787125667645]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard de la Liberté</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4035</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Zola</name>
+            </geo>
+            <_l>[ 47.214077429887 , -1.58739165581353]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue des Renardières</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4036</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Sainte Thérèse</name>
+            </geo>
+            <_l>[ 47.2322056559262 , -1.57724775456618]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Boulevard Boulay Paty</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4037</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Duchesse Anne</name>
+            </geo>
+            <_l>[ 47.2165024497787 , -1.54717075568781]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Henri IV</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4038</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare Routière Baco Lila</name>
+            </geo>
+            <_l>[ 47.2126755417774 , -1.55276994885937]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.loire-atlantique.fr/lila</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 08 71 56</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>13 Allée de la Maison Rouge</ADRESSE>
+            <LIBTYPE>Route</LIBTYPE>
+            <_IDOBJ>4048</_IDOBJ>
+            <TYPE>100404</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare Routière Pirmil Lila</name>
+            </geo>
+            <_l>[ 47.1963923435608 , -1.54267335074876]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.loire-atlantique.fr/lila</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 08 71 56</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Rue Esnoult des Châtelets</ADRESSE>
+            <LIBTYPE>Route</LIBTYPE>
+            <_IDOBJ>4049</_IDOBJ>
+            <TYPE>100404</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare Routière Beauséjour Lila</name>
+            </geo>
+            <_l>[ 47.2380795016075 , -1.58686060715571]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.loire-atlantique.fr/lila</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 08 71 56</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-HERBLAIN</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Route de Vannes</ADRESSE>
+            <LIBTYPE>Route</LIBTYPE>
+            <_IDOBJ>4050</_IDOBJ>
+            <TYPE>100404</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare Routière Cardo Lila</name>
+            </geo>
+            <_l>[ 47.2617996203739 , -1.58415510201614]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44700</CODE_POSTAL>
+            <WEB>www.loire-atlantique.fr/lila</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 08 71 56</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ORVAULT</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Esplanade du Cardo</ADRESSE>
+            <LIBTYPE>Route</LIBTYPE>
+            <_IDOBJ>4051</_IDOBJ>
+            <TYPE>100404</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Gare Routière Haluchère Lila</name>
+            </geo>
+            <_l>[ 47.2480211629729 , -1.52143188594155]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.loire-atlantique.fr/lila</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 25 08 71 56</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport en commun</LIBCATEGORIE>
+            <ADRESSE>Boulevard Jules Verne</ADRESSE>
+            <LIBTYPE>Route</LIBTYPE>
+            <_IDOBJ>4052</_IDOBJ>
+            <TYPE>100404</TYPE>
+            <CATEGORIE>1004</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>103 Station Mobile</name>
+            </geo>
+            <_l>[ 47.2059145067047 , -1.56970373529113]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44200</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Quai Fernand Crouan</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>4053</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Canclaux</name>
+            </geo>
+            <_l>[ 47.2141712241294 , -1.5748272514646]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Canclaux</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4066</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Rezé Mairie</name>
+            </geo>
+            <_l>[ 47.1912719943743 , -1.57041911066494]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44400</CODE_POSTAL>
+            <WEB>www.imarguerite.com</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 58 44 14</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>REZE</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Place Saint Pierre</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4067</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Sautron</name>
+            </geo>
+            <_l>[ 47.2680407186535 , -1.67112545623475]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44880</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>SAUTRON</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>51 Rue de la Vallée</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4071</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Chantiers Navals</name>
+            </geo>
+            <_l>[ 47.2082893195233 , -1.56891560955727]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44100</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Quai de la Fosse</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4072</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Gloriette 2</name>
+            </geo>
+            <_l>[ 47.2102736871054 , -1.56028436884679]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Rue Albert de Mun</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4073</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Santos Dumont</name>
+            </geo>
+            <_l>[ 47.2593236730243 , -1.56822710791259]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue des Renards</ADRESSE>
+            <LIBTYPE>Libre</LIBTYPE>
+            <_IDOBJ>4076</_IDOBJ>
+            <TYPE>100203</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>72 Station Accueil Bellamy Gué-Moreau</name>
+            </geo>
+            <_l>[ 47.2286141235376 , -1.56192014921017]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.bicloo.nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>01 30 79 33 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Rue Paul Bellamy</ADRESSE>
+            <LIBTYPE>Bicloo</LIBTYPE>
+            <_IDOBJ>4077</_IDOBJ>
+            <TYPE>100301</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage La Métaierie Rouge</name>
+            </geo>
+            <_l>[ 47.2744422259447 , -1.54638397050348]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44240</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>LA-CHAPELLE-SUR-ERDRE</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>VC 5</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4083</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Norauto Atlantis</name>
+            </geo>
+            <_l>[ 47.2257239248911 , -1.62624641113902]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44800</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>ST-HERBLAIN</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>Rue Océane</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4084</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Aire de covoiturage Carrefour Beaujoire</name>
+            </geo>
+            <_l>[ 47.2578779098455 , -1.50983215080644]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.covoiturage-nantesmetropole.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>08 11 13 01 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Aire de covoiturage</LIBCATEGORIE>
+            <ADRESSE>1 Avenue Flora Tristan</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4099</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1006</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tramway Ranzay</name>
+            </geo>
+            <_l>[ 47.2543632744444 , -1.53313665411229]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Route de Saint Joseph</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>4100</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc relais tram-train Haluchère 1</name>
+            </geo>
+            <_l>[ 47.2484503442291 , -1.52283117372235]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44300</CODE_POSTAL>
+            <WEB>www.tan.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 40 44 44 44</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc Relais</LIBCATEGORIE>
+            <ADRESSE>Rue du Ranzai</ADRESSE>
+            <LIBTYPE>Enclos</LIBTYPE>
+            <_IDOBJ>4101</_IDOBJ>
+            <TYPE>100202</TYPE>
+            <CATEGORIE>1002</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Parc en enclos Baco-LU 1 côté gare</name>
+            </geo>
+            <_l>[ 47.2143324211276 , -1.54898882844897]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>www.parkings-nantes.fr</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>02 51 84 94 51</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Parc en Enclos</LIBCATEGORIE>
+            <ADRESSE>Allée Baco</ADRESSE>
+            <LIBTYPE>null</LIBTYPE>
+            <_IDOBJ>4142</_IDOBJ>
+            <TYPE>null</TYPE>
+            <CATEGORIE>1005</CATEGORIE>
+        </element>
+        <element>
+            <geo>
+                <name>Station Versailles</name>
+            </geo>
+            <_l>[ 47.226783599264 , -1.55558569228364]</_l>
+            <LIBTHEME>DEPLACEMENT</LIBTHEME>
+            <CODE_POSTAL>44000</CODE_POSTAL>
+            <WEB>null</WEB>
+            <STATUT>null</STATUT>
+            <TELEPHONE>null</TELEPHONE>
+            <THEME>10</THEME>
+            <COMMUNE>NANTES</COMMUNE>
+            <LIBCATEGORIE>Transport partagé</LIBCATEGORIE>
+            <ADRESSE>Quai de Versailles</ADRESSE>
+            <LIBTYPE>Marguerite</LIBTYPE>
+            <_IDOBJ>4146</_IDOBJ>
+            <TYPE>100302</TYPE>
+            <CATEGORIE>1003</CATEGORIE>
+        </element>
+    </mobidata>
+</document>
