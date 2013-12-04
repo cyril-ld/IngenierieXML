@@ -53,12 +53,25 @@ class EquiMobi {
     private $latitude;
 
     /**
+     * Distance par rapport à l'équipement sportif englobant
+     */
+    private $distance;
+
+    /**
      * Longitude de l'équipement
      */
     private $longitude;
 
     public function setLongitude($longitude) {
         $this->longitude = $longitude;
+    }
+
+    public function setDistance($distance) {
+        $this->distance = $distance;
+    }
+
+    public function getDistance() {
+        return $this->distance;
     }
 
     public function getLongitude() {
@@ -134,14 +147,8 @@ class EquiSport {
      */
     private $longitude;
 
-    function __construct() {}
-    function __destruct(){}
-
-    public function EquiSport($nom, $prenom, $distanceMax) {
-        $this->nom = $nom;
-        $this->adresse = $adresse;
-        $this->distanceMax = $distanceMax;
-        $this->$equipements = array();
+    public function EquiSport() {
+        $this->equipements = array();
     }
 
     public function setLongitude($longitude) {
@@ -239,12 +246,11 @@ class SportHandler extends DefaultHandler {
 
         switch(utf8_decode($name)) {
             case 'element' :
+                
+                $this->setListeEquipementsMobilite();
 
                 // Ajout de l'élément courant dans la liste des équipements sportifs
                 array_push($this->liste_equipements_sportifs, $this->equiSportCourant);
-                $this->setListeEquipementsMobilite();
-                // Cette instruction doit être la dernière effectuée dans le cas où on quitte le noeud représentant un équipement
-                $this->equiSportCourant = null;
                 break;
             case 'name' :
                 if (strlen($this->texte) > 0){
@@ -291,14 +297,16 @@ class SportHandler extends DefaultHandler {
             if(count($liste_equipements_mobilite) == 0) {
                 echo '<mobi-proxy/>';
             } else {
-                echo '<mobi-proxy>';
+                echo '<liste-mobi-proxy>';
                 foreach($liste_equipements_mobilite as $equiMobi) {
-                    echo '<nom>'.$equiMobi->getNom().'</nom>';
-                    echo '<categorie>'.$equiMobi->getCategorie().'</categorie>';
-                    echo '<adresse>'.$equiMobi->getAdresse().'</adresse>';
-                    echo '<distance/>';
+                    echo '<mobi-proxy>';
+                    echo '<nom>'.utf8_encode($equiMobi->getNom()).'</nom>';
+                    echo '<categorie>'.utf8_encode($equiMobi->getCategorie()).'</categorie>';
+                    echo '<adresse>'.utf8_encode($equiMobi->getAdresse()).'</adresse>';
+                    echo '<distance>'.$equiMobi->getDistance().'</distance>';
+                    echo '</mobi-proxy>';
                 }
-                echo '</mobi-proxy>';
+                echo '</liste-mobi-proxy>';
             }
 
             echo '</equisport>';
@@ -315,14 +323,15 @@ class SportHandler extends DefaultHandler {
      * Fonction permettant de récupérer la liste des équipements de mobilité dans un rayon de 500 mètres.
      */
     function setListeEquipementsMobilite() {
+        $xmlMobilite = null;
         $xmlMobilite = file_get_contents('../LOC_EQUIPUB_MOBILITE_NM_STBL.xml');
 
         $this->equiSportCourant->setDistanceMax(500);
 
         $saxMobilite = new SaxParser(new MobiliteHandler($this->equiSportCourant));
-        echo $xmlMobilite;
+
         try {
-            //$saxMobilite->parse($xmlMobilite);
+            $saxMobilite->parse($xmlMobilite);
         }catch(SAXException $e){  
             echo "\n",$e;
         }catch(Exception $e) {
@@ -353,19 +362,18 @@ class MobiliteHandler extends DefaultHandler {
     private $texte;
 
     function MobiliteHandler($equipementSport) {
-        //echo 'Constructeur !';
         $this->equipementSport = $equipementSport;
         parent::__construct();
+
     }
 
     function startElement($name, $att) {
-        echo 'start element';
+        
         // Reset du texte pour récupérer l'élément courant
         $this->texte = '';
-
         switch ($name) {
             case 'element':
-                $this->$equiMobiCourant = new EquiMobi();
+                $this->equiMobiCourant = new EquiMobi();
                 break;
             default:
                 # code...
@@ -374,12 +382,13 @@ class MobiliteHandler extends DefaultHandler {
     }
     
     function endElement($name) {
-        echo "Nom de la balise : "+$name;
+        
         switch ($name) {
             case 'element':
-                $distance = getDistance($this->equiMobiCourant->getLatitude(), $this->equiMobiCourant->getLongitude(), $this->equipementSport->getLatitude(), $this->equipementSport->getLongitude());
-                echo "Je suis l'élément de fin d'un équipement de mobilité, à ".$distance."m de l'équipement sportif !";
+                $distance = Utils::getDistance($this->equiMobiCourant->getLatitude(), $this->equiMobiCourant->getLongitude(), $this->equipementSport->getLatitude(), $this->equipementSport->getLongitude());
+
                 if($distance < 500) {
+                    $this->equiMobiCourant->setDistance($distance);
                     $this->equipementSport->addEquipement($this->equiMobiCourant);
                 }
                 $this->equiMobiCourant = null;
@@ -406,11 +415,11 @@ class MobiliteHandler extends DefaultHandler {
     } 
 
     function startDocument() {
-        $rien;
+        
     } 
     
     function endDocument() {
-        $rien;
+        
     }
 
     function characters($txt) {
@@ -420,8 +429,7 @@ class MobiliteHandler extends DefaultHandler {
 }
 
 /*
- * ============================================================================
- * Code dégueulasse, placé là pour pouvoir être appelé au chargement de la page
+ * Code appelé au chargement de la page, permettant de lancer le petit programme.
  */
 $xmlSport = file_get_contents('../LOC_EQUIPUB_SPORT_NM_STBL.xml');
 
