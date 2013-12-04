@@ -242,7 +242,7 @@ class SportHandler extends DefaultHandler {
 
                 // Ajout de l'élément courant dans la liste des équipements sportifs
                 array_push($this->liste_equipements_sportifs, $this->equiSportCourant);
-
+                $this->setListeEquipementsMobilite();
                 // Cette instruction doit être la dernière effectuée dans le cas où on quitte le noeud représentant un équipement
                 $this->equiSportCourant = null;
                 break;
@@ -319,7 +319,15 @@ class SportHandler extends DefaultHandler {
 
         $this->equiSportCourant->setDistanceMax(500);
 
-        $saxMobilite = new SaxParser(new MobiliteHandler($equiSportCourant));
+        $saxMobilite = new SaxParser(new MobiliteHandler($this->equiSportCourant));
+        echo $xmlMobilite;
+        try {
+            //$saxMobilite->parse($xmlMobilite);
+        }catch(SAXException $e){  
+            echo "\n",$e;
+        }catch(Exception $e) {
+            echo "Default exception >>", $e;
+        }
     }
 }
 
@@ -344,8 +352,8 @@ class MobiliteHandler extends DefaultHandler {
      */
     private $texte;
 
-    function __construct($equipementSport) {
-        echo 'Constructeur !';
+    function MobiliteHandler($equipementSport) {
+        //echo 'Constructeur !';
         $this->equipementSport = $equipementSport;
         parent::__construct();
     }
@@ -366,6 +374,7 @@ class MobiliteHandler extends DefaultHandler {
     }
     
     function endElement($name) {
+        echo "Nom de la balise : "+$name;
         switch ($name) {
             case 'element':
                 $distance = getDistance($this->equiMobiCourant->getLatitude(), $this->equiMobiCourant->getLongitude(), $this->equipementSport->getLatitude(), $this->equipementSport->getLongitude());
