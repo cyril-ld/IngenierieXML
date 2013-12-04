@@ -23,7 +23,7 @@ class Utils {
         $x = ($rLon2 - $rLon1) * cos(($rLat1 + $rLat2)/2);
         $y = $rLat2 - $rLat1;
         $dist =sqrt($x*$x + $y*$y) * 6371009;
-        return $dist; 
+        return (int) $dist; 
     }
 }
 
