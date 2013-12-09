@@ -428,6 +428,10 @@ class MobiliteHandler extends DefaultHandler {
     }
 }
 
+
+// Début du script
+$heureDepart = microtime(true);
+
 /*
  * Code appelé au chargement de la page, permettant de lancer le petit programme.
  */
@@ -448,8 +452,18 @@ try {
 }catch(SAXException $e){  
     echo "\n",$e;
 }catch(Exception $e) {
-    echo "Default exception >>", $e;
+   	echo "Default exception >>", $e;
 }
+
+// Fin du script
+$heureFin = microtime(true);
+
+// Durée d'exé
+$time = $heureFin - $heureDepart;
+
+//Afficher le temps d'éxecution
+$page_load_time = number_format($time, 3);
+echo '<!-- Debut du script: '.date("H:i:s", $heureDepart).' Fin du script: '.date("H:i:s", $heureFin).' Script execute en '. $page_load_time .' sec -->';
 /*
  * ============================================================================
  */
