@@ -52,8 +52,9 @@
 		$lat_lon = $equiSport->getElementsByTagName("_l")->item(0)->nodeValue;
 		$crochets = array("[", "]");
 		$lat_lon = str_replace($crochets, "", $lat_lon);
-		$latEquiSport = trim(explode(",", $lat_lon)[0]);
-		$lonEquiSport = trim(explode(",", $lat_lon)[1]);
+		$latlonTab = explode(",", $lat_lon);
+		$latEquiSport = trim($latlonTab[0]);
+		$lonEquiSport = trim($latlonTab[0]);
 
 		// Parcours du fichier des équipements sportifs pour récupérer les équipements proches
 		foreach ($listeEquiMobi as $equiMobi) {
@@ -61,8 +62,9 @@
 			$lat_lon = $equiMobi->getElementsByTagName("_l")->item(0)->nodeValue;
 			$crochets = array("[", "]");
 			$lat_lon = str_replace($crochets, "", $lat_lon);
-			$latEquiMobi = trim(explode(",", $lat_lon)[0]);
-			$lonEquiMobi = trim(explode(",", $lat_lon)[1]);
+			$latlonTabMobi = explode(",", $lat_lon);
+			$latEquiMobi = trim($latlonTabMobi[0]);
+			$lonEquiMobi = trim($latlonTabMobi[0]);
 			$distance = getDistance($latEquiSport, $lonEquiSport, $latEquiMobi, $lonEquiMobi);
 			if($distance <= 500) {
 
