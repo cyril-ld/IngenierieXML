@@ -1,5 +1,7 @@
 <?php
-
+	
+	header("Content-type: application/xml");
+	
 	/**
      * Calcule la distance entre deux points en se basant sur les coordonnées deux ceux-ci
      * @param lat1
@@ -19,9 +21,6 @@
         return (int) $dist; 
     }
 
-    // Début du script
-	$heureDepart = microtime(true);
-
 	$docMobilite = new DOMDocument();
 	$docMobilite->load("../LOC_EQUIPUB_MOBILITE_NM_STBL.xml");
 
@@ -30,18 +29,29 @@
 
 	$listeEquiSport = $docEquisport->getElementsByTagName('element');
 	$listeEquiMobi = $docMobilite->getElementsByTagName('element');
+	
+	
+	// Création d'une instance de la classe DOMImplementation
+	$imp = new DOMImplementation;
 
-	// Document Object Model résultat
-	$docProduit = new DOMDocument('1.0', 'UTF-8');
+	// Création d'une instance DOMDocumentType
+	$dtd = $imp->createDocumentType('liste-equipsport', '', '../EquiSport.dtd');
+
+	// Création d'une instance DOMDocument
+	$docProduit = $imp->createDocument("", "", $dtd);
+
+	$docProduit->encoding = 'UTF-8';
+	$docProduit->standalone = false;
+	$docProduit->xmlVersion = "1.0";
 
 	// Noeud racine du DOM produit
-	$noeudRacine = $docProduit->createElement("liste-EquiSport");
+	$noeudRacine = $docProduit->createElement("liste-equipsport");
 
 	// Ajout des noeuds "<equisport>" en fonction de ce qui existe dans les fichiers chargés
 	foreach ($listeEquiSport as $equiSport) {
 
 		// Création du noeud
-		$nouveauEquiSport = $docProduit->createElement("equisport");
+		$nouveauEquiSport = $docProduit->createElement("equipsport");
 
 		// Ajout de l'attribut nom
 		$nouveauEquiSport->setAttribute("nom", utf8_encode($equiSport->getElementsByTagName("name")->item(0)->nodeValue));
@@ -69,7 +79,7 @@
 			if($distance <= 500) {
 
 				// Création du noeud <mobi-proxy> contenant les informations d'un équipement sportif à moins de 500 mètres
-				$equiMobi_node = $docProduit->createElement("mobi-proxy");
+				$equiMobi_node = $docProduit->createElement("mobi-proxi");
 
 				// Création des noeuds fils
 				$nom_node = $docProduit->createElement("nom");
@@ -103,16 +113,9 @@
 		$noeudRacine->appendChild($nouveauEquiSport);
 	}
 
-	header("Content-type: application/xml");
+	// Ajout de la racine contenant toutes les informations dans le document
 	$docProduit->appendChild($noeudRacine);
-	echo utf8_decode($docProduit->saveXML());
-	// Fin du script
-	$heureFin = microtime(true);
-
-	// Durée d'exé
-	$time = $heureFin - $heureDepart;
-
-	//Afficher le temps d'éxecution
-	$page_load_time = number_format($time, 3);
-	echo '<!-- Debut du script: '.date("H:i:s", $heureDepart).' Fin du script: '.date("H:i:s", $heureFin).' Script execute en '. $page_load_time .' sec -->';
+	
+	// Validation du document vis à vis de la DTD
+	$estCorrect = $docProduit->validate();
 ?>
