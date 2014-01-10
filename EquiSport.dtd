@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT liste-equipsport (equipsport)*>
+<!ELEMENT equipsport (mobi-proxi?)*>
+<!-- Equipements mobilité a moins de 500 mètres-->
+<!ELEMENT mobi-proxi (nom,categorie,adresse,distance)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT categorie (#PCDATA)>
+<!ELEMENT adresse (#PCDATA)>
+<!-- Distance en mètres par rapport à l'élément parent-->
+<!ELEMENT distance (#PCDATA)>
+<!ATTLIST equipsport
+	nom CDATA #REQUIRED
+	adresse CDATA #REQUIRED>
