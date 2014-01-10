@@ -118,4 +118,7 @@
 	
 	// Validation du document vis à vis de la DTD
 	$estCorrect = $docProduit->validate();
+	
+	// Affichage, mis en commentaire pour éviter d'influencer le temps d'exécution
+	//echo $docProduit->saveXML();
 ?>
