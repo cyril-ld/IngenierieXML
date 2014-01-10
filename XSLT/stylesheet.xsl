@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:math="http://exslt.org/math">
     <xsl:output  method="xml" encoding="utf8"  indent="yes"/>
         <xsl:template match="/">
-            <liste-equisport>
+            <liste-equipsport>
                 <xsl:for-each select="document/data/element">
                     <equipsport>
                         <xsl:attribute name="nom"><xsl:value-of select="geo/name" /></xsl:attribute>
@@ -34,6 +34,6 @@
                         </xsl:for-each>
                     </equipsport>
                 </xsl:for-each>
-            </liste-equisport>
+            </liste-equipsport>
         </xsl:template>
 </xsl:stylesheet>
