@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:math="http://exslt.org/math">
-    <xsl:output  method="xml" encoding="utf8"  indent="yes"/>
+    <xsl:output  method="xml" encoding="utf8" indent="yes" doctype-system="../EquiSport.dtd"/>
         <xsl:template match="/">
             <liste-equipsport>
                 <xsl:for-each select="document/data/element">
